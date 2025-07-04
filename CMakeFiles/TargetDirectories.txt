@@ -1,3 +1,0 @@
-/home/vladimir/Documents/Projects/C++/website/CMakeFiles/WebSite.dir
-/home/vladimir/Documents/Projects/C++/website/CMakeFiles/edit_cache.dir
-/home/vladimir/Documents/Projects/C++/website/CMakeFiles/rebuild_cache.dir
