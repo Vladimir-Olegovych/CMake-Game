@@ -1,0 +1,9 @@
+{
+    "cmake.configureEnvironment": {
+        "VCPKG_ROOT": "/home/vladimir/vcpkg"
+    },
+    "files.associations": {
+        "iostream": "cpp",
+        "cmath": "cpp"
+    }
+}
